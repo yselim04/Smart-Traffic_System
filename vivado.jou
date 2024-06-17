@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Sun Dec 24 14:23:52 2023
+# Process ID: 19608
+# Current directory: C:/Users/lenovo/Desktop/traffic
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16436 C:\Users\lenovo\Desktop\traffic\traffic.xpr
+# Log file: C:/Users/lenovo/Desktop/traffic/vivado.log
+# Journal file: C:/Users/lenovo/Desktop/traffic\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/lenovo/Desktop/traffic/traffic.xpr
+launch_simulation
